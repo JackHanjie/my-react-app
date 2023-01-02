@@ -1,0 +1,864 @@
+{
+    "rotationImg": [
+        {
+            "id": 1,
+            "name": "Model 3",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/model3.png",
+            "battery": "675",
+            "speedUp": "3.3",
+            "higtSpeed": "228",
+            "price": "265'652",
+            "mode": "后轮驱动",
+            "configuration": [
+                {
+                    "id": 1,
+                    "wheelColor": "white",
+                    "name": "18 英寸动力轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/option-wheels-19-sport.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W41B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W41B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W41B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W41B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W41B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W41B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W41B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W41B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W41B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "wheelColor": "black",
+                    "name": "19 英寸运动轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/option-wheels-18-aero.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PBSB,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W40B,$IBW1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSW,$W40B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPSB,$W40B,$IBW1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MT322,$PPMR,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Model Y",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/modely.png",
+            "battery": "660",
+            "speedUp": "5.6",
+            "higtSpeed": "217",
+            "price": "301'840",
+            "mode": "后轮驱动",
+            "configuration": [
+                {
+                    "id": 1,
+                    "wheelColor": "white",
+                    "name": "19 英寸双子星轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELY/UI/gemini_wheels.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY19B,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY19B,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY19B,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY19B,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "wheelColor": "black",
+                    "name": "20 英寸感应涡轮轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELY/UI/induction_wheels.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY20P,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PBSB,$WY20P,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY20P,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSW,$WY20P,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY20P,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PMNG,$WY20P,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY20P,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPSB,$WY20P,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY20P,$INPW0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,80,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTY13,$PPMR,$WY20P,$INPW0&view=FRONT34&model=my&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,450,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Model S",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/models.png",
+            "battery": "637",
+            "speedUp": "2.1",
+            "higtSpeed": "322",
+            "price": "801'421",
+            "mode": "双电机全轮驱动",
+            "configuration": [
+                {
+                    "id": 1,
+                    "wheelColor": "white",
+                    "name": "19 英寸暴风轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELS/UI/ui_swat_whl_tempest.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS90,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS90,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS90,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS90,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS90,$ICW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS90,$ICW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS90,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS90,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS90,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS90,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "wheelColor": "black",
+                    "name": "21 英寸蛛网轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELS/UI/21Arachnid.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS10,$IWW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PBSB,$WS10,$IWW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS10,$ICW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSW,$WS10,$ICW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS10,$ICW00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PMNG,$WS10,$ICW00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS10,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPSB,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS10,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTS10,$PPMR,$WS10,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,500,300,300&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Model X",
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/model/modelx.png",
+            "battery": "547",
+            "speedUp": "2.6",
+            "higtSpeed": "249",
+            "price": "411'986",
+            "mode": "三电机全轮驱动",
+            "configuration": [
+                {
+                    "id": 1,
+                    "wheelColor": "white",
+                    "name": "20 英寸赛博流轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELX/UI/20Cyberstream.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX00,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX00,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX00,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX00,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX00,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX00,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX00,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX00,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX00,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_white",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX00,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "wheelColor": "black",
+                    "name": "22 英寸涡轮轮毂",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODELX/UI/22Turbine.png?&version=v0027d202201131219",
+                    "carColor": [
+                        {
+                            "id": 1,
+                            "color": "black",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX20,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PBSB,$WX20,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "color": "white",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX20,$IWW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSW,$WX20,$IWW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "color": "silver",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX20,$IWW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PMNG,$WX20,$IWW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "color": "blue",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX20,$ICW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPSB,$WX20,$ICW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "color": "red",
+                            "configList": [
+                                {
+                                    "id": 1,
+                                    "name": "head_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX20,$IWW00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=0,0,0,0&version=v0027d202201131219"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "body_black",
+                                    "picUrl": "https://static-assets.tesla.cn/configurator/compositor?&options=$MTX10,$PPMR,$WX20,$IWW00&view=FRONT34&model=mx&size=1920&bkba_opt=1&version=v0027d202201131219&crop=1300,600,300,230&version=v0027d202201131219"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "color": [
+                {
+                    "id": 1,
+                    "name": "纯黑色",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Black.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 2,
+                    "name": "珍珠白",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_White.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 3,
+                    "name": "冷光银",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_MidnightSilver.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 4,
+                    "name": "深海蓝",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Blue.png?&version=v0027d202201131219"
+                },
+                {
+                    "id": 5,
+                    "name": "中国红",
+                    "picUrl": "https://static-assets.tesla.cn/share/tesla_design_studio_assets/MODEL3/UI/Paint_Red.png?&version=v0027d202201131219"
+                }
+            ]
+        }
+    ]
+}

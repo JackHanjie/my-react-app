@@ -1,0 +1,70 @@
+{
+    "TZONE": [
+        {
+            "id": 1,
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/magazine/202114/0001.jpg"
+        },
+        {
+            "id": 2,
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/magazine/202111/0001.jpg"
+        },
+        {
+            "id": 3,
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/magazine/202110/0001.jpg"
+        },
+        {
+            "id": 4,
+            "picUrl": "https://china-community-app.tesla.cn/wechatmini/magazine/202109/0001.jpg"
+        }
+    ],
+    "goods": [
+        {
+            "id": 1,
+            "title": "Model S 配件",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/models-mobile.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Model 3 配件",
+            "color": "white",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/v2/model3-mobile@2x.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Model X 配件",
+            "color": "white",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/modelx-mobile@2x.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Model Y 配件",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/model_y-mobile.jpg"
+        },
+        {
+            "id": 5,
+            "title": "充电产品",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/charging-gen3.jpg"
+        },
+        {
+            "id": 6,
+            "title": "男装",
+            "color": "white",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/mens-mobile.jpg"
+        },
+        {
+            "id": 7,
+            "title": "女装",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/womens-mobile@2x.jpg"
+        },
+        {
+            "id": 8 ,
+            "title": "周边精品",
+            "color": "black",
+            "picUrl": "https://www.tesla.cn/ns_videos/commerce/content/dam/tesla/tesla-shop-marketing-imagery/image-grid/lifestyle-mobile.jpg"
+        }
+    ] 
+}
